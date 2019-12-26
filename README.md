@@ -8,8 +8,8 @@ You need to have installed Node js, npm and MongoDB in your system.
 
 # Technologies Used
 
-1.EJS - Ejs is simple and effective template engine for JavaScript. EJS is the simple template which allows developers to create the HTML page with plain JavaScript. Ejs provide fast compilation and rendering and include both server and browser support.
-2.Node JS
+EJS or Embedded Javascript Templating is a templating engine used by Node.js. Template engine helps to create an HTML template with minimal code. Also, it can inject data into HTML template at the client side and produce the final HTML. EJS is a simple templating language which is used to generate HTML markup with plain JavaScript. It also helps to embed JavaScript to HTML pages.<br>
+2.Node JS<br>
 3.Mongo DB
 
 # Installation
