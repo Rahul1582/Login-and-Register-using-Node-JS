@@ -12,4 +12,4 @@ userSchema= new Schema({
 
 User= mongoose.model('User',userSchema);
 
-modelu.exports= User;
+model.exports= User;
